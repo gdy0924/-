@@ -1,0 +1,9 @@
+.settings
+bin
+lib
+src
+svn
+testSVN
+.classpath
+.project
+build.fxbuild
